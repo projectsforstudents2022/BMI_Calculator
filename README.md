@@ -1,6 +1,5 @@
 # BMI_Calculator
 
-# Image_Encryption
 
 ## Directly Run
 
